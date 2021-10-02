@@ -1,5 +1,5 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# Pares y posición
+# Media y desviación estándar
 ### Tema Listas
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
@@ -16,15 +16,19 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 Escribe un programa que primero lea la cantidad de elementos que vas a ingresar en la lista y después acepte cada uno de los elementos. Todos los datos que se ingresan deben ser números enteros. Si el usuario pone un número menor a uno se imprimirá un mensaje de error.
 
-Posteriormente, el programa debe calcular la media (promedio) y la mediana y desplegarlos en la terminal.
+Posteriormente, el programa debe calcular la media (promedio) y la desviación estándar y desplegarlos en la terminal.
 
-**Importante:** Utiliza dos funciones, una llamada media y otra llamada mediana, que reciben como parámetro de entrada una lista y regresan como resultado la media y la mediana respectivamente.
+**Importante:** Utiliza dos funciones, una llamada media y otra llamada desviacion_std, que reciben como parámetro de entrada una lista y regresan como resultado la media y la desviación estándar respectivamente.
+
+**Cómo se calcula la desviación estándar:** Para una lista de 6 elementos y donde la media (promedio) de esos elementos es 6.33 la desviación estándar se calcula así: 
+
+![Desviación Estándar](../../images/desviacion_std.png)
 
 ## Entrada
 Un número entero que representa la cantidad de valores que tiene la lista, asi como cada uno de los valores de la lista.
 
 ## Salida
-Un mensaje que muestre la media y la mediana. Observa que tanto la media como la mediana son valores **flotantes**.
+Un mensaje que muestre la media y la desviación estándar. Observa que tanto la media como la desviación estándar son valores **flotantes**.
  
 ## Ejemplo de ejecución del programa:
 ### Entrada

@@ -12,5 +12,5 @@ sudo -H pip3 install pytest
 - ## Media y Mediana
     ### Run command
     ```
-    pytest assignments/MediaYMediana
+    pytest assignments/MediaYDesviacionEst
     ```

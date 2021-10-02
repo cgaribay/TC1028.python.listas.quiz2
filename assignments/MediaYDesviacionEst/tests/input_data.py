@@ -11,13 +11,13 @@ input_values = [
     # Test case 2
     (
     [7, 5, 8, 20, 9, 33, 42, 2],
-    ["", "", "", "", "", "", "", "", "Media: 17.0", "Mediana: 9.0"],
+    ["", "", "", "", "", "", "", "", "Media: 17.0", "Desviacion Estándar: 15.30"],
     ["La media o la mediana no tienen el valor correcto."]
     ),
     # Test case 3
     (
     [6, 4, 10, 13, 5, 17, 5],
-    ["", "", "", "", "", "", "", "Media: 9.0", "Mediana: 7.5"],
+    ["", "", "", "", "", "", "", "Media: 9.0", "Desviacion Estándar: 5.25"],
     ["La media o la mediana no tienen el valor correcto."]
     )
 ]
