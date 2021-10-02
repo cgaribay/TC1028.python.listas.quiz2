@@ -22,7 +22,7 @@ Posteriormente, el programa debe calcular la media (promedio) y la desviación e
 
 **Cómo se calcula la desviación estándar:** Para una lista de 6 elementos y donde la media (promedio) de esos elementos es 6.33 la desviación estándar se calcula así: 
 
-![Desviación Estándar](../../images/desviacion_std.png)
+![Desviación Estándar](../../images/desviacion_std.PNG)
 
 ## Entrada
 Un número entero que representa la cantidad de valores que tiene la lista, asi como cada uno de los valores de la lista.
