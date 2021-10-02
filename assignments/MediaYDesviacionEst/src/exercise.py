@@ -1,28 +1,14 @@
 import math
 def media(lista):
-    suma = 0
-    for i in lista:
-        suma += i
-    return suma / len(lista)
+    pass
 
 def desviacion_std(lista):
-    prom = media(lista)
-    n = len(lista)
-    suma = 0
-    for i in lista:
-        suma += (i - prom)**2
-    return math.sqrt(suma / (n-1))
+    pass
 
 def main():
-    num_elem = int(input())
-    lista = []
-    if num_elem > 0:
-        for i in range(num_elem):
-            lista.append(int(input()))
-        print(f"Media: {media(lista)}")
-        print(f"Desviacion Estándar: {desviacion_std(lista):.2f}")
-    else:
-        print('Error')
+    #Ejemplo para imprimir un valor con solo dos puntos decimales
+    # print(f"Desviacion Estándar: {desviacion_std(lista):.2f}")
+    pass
 
 if __name__=='__main__':
     main()
