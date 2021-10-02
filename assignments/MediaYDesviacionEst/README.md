@@ -51,7 +51,7 @@ Error
 ### Salida
 ```
 Media: 3.4
-Mediana: 3.0
+Desviación Estándar: 2.30
 ```
 
 ### Entrada
@@ -65,7 +65,7 @@ Mediana: 3.0
 ### Salida
 ```
 Media: 4.5
-Mediana: 4.0
+Desviación Estándar: 2.65
 ```
 No uses letreros para pedir los datos y diseña los letreros de salida iguales a los del ejemplo.
 
